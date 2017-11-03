@@ -1729,12 +1729,20 @@
       <updated>1509700748478</updated>
       <workItem from="1509700759446" duration="206000" />
       <workItem from="1509701001791" duration="483000" />
-      <workItem from="1509705320285" duration="2143000" />
+      <workItem from="1509705320285" duration="2196000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes to docker-compose">
+      <created>1509709166509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509709166509</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2832000" />
+    <option name="totallyTimeSpent" value="2885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="43" width="1400" height="960" extended-state="0" />
@@ -1773,6 +1781,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes to docker-compose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to docker-compose" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
